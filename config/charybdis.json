@@ -1,6 +1,6 @@
 {
-  "id": "Charybdis",
-  "name": "Charybdis",
+  "id": "Carybdis_Black_DP",
+  "name": "Carybdis_Black_DP",
   "layouts": {
     "default_transform": {
       "name": "default_transform",
@@ -135,4 +135,5 @@
   },
   "sensors": []
 }
+
 
